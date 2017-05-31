@@ -1,0 +1,80 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+body {
+	background-image: url(../images/pic3.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-size:cover;
+}
+
+#container {
+	height: 630px;
+	width: 1330px;
+	background: url(../images/transparent_white.png);
+	margin-left: 100px;
+	margin-top: 50px;
+	border: 2px solid black;
+}
+
+#containHead {
+	background-color: ;
+	width: 1130px;
+	height: 120px;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+#timer {
+	height: 50px;
+	width: 120px;
+	background-color: ;
+	font-family: 'Permanent Marker', cursive;
+
+}
+
+#containHead h1 {
+	text-align: center;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 70px;
+	margin-top: -50px;
+}
+
+#content {
+	background-color: ;
+	width: 1130px;
+	height: 380px;
+	margin-top: 20px;
+	margin-left: 100px;
+	text-align: center;
+}
+
+#content h3 {
+	font-family: 'Permanent Marker', cursive;
+	margin-bottom: 5px;
+	font-size: 24px;
+}
+
+#content p {
+	font-family: 'Concert One', cursive;
+
+}
+
+#bottom {
+	background-color: ;
+	width: 1130px;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 100px;
+}
+
+p {
+	display: inline-block;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
